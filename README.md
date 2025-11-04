@@ -6,7 +6,7 @@
 * [eksctl](https://eksctl.io/installation/)
 * [helm](https://helm.sh/docs/intro/install/)
 
-### Setup
+### Setup 
 
 To get started, configure your command line environment and permissions:
 
